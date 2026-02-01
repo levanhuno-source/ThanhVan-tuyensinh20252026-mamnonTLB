@@ -1,0 +1,7 @@
+{
+  "name": "TUYỂN SINH 2025-2026-Mầm Non Tân Lập B ",
+  "description": "Hệ thống tuyển sinh trực tuyến chính thức của Trường Mầm Non Tân Lập B cho năm học 2025-2026.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
